@@ -10,9 +10,8 @@
   
   <properties>
   <sonar.organization>tmenis</sonar.organization>
-  <sonar.projectKey>tmenis_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
- </properties>
+</properties>
   
   <dependencies>
     <dependency>
